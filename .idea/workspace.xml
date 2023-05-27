@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="588b16f7-c605-461b-b4e0-ca2a0568c78f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATM SimulatorSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BalanceEquiry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FastCash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiniStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Signup2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Signup3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Withdrawl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QMdD6UMmy2no3JU1schM2avFMH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="588b16f7-c605-461b-b4e0-ca2a0568c78f" name="Changes" comment="" />
+      <created>1685167262304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685167262304</updated>
+    </task>
+    <servers />
+  </component>
+</project>
